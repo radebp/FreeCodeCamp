@@ -1,7 +1,13 @@
-# Ovo je naslov#
-*ovo je sa zvezdicom - iskošeno*
-##Ovo je naslov##
-###Ovo je naslov###
-```js
-neka jednačina ili izraz
-```
+Овде долази текст о нечему о чему желим писати.  
+Сада је ово само **вежбање**.
+# Glavni naslov
+## Podnaslov
+### Podpodnaslov
+**podebljano**  
+
+_iskošeno_  
+
+_**i jedno i drugo**_  
+
+`kod`
+
