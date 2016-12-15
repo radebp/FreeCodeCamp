@@ -3,3 +3,6 @@ kreiranje veze - primer kako se kreira veza u HTML-u
 <p>Ovo je veza do <a href="http://gimnazijabp.edu.rs"> sajta Gimnazije</a> u Bačkoj Palanci.</p>
 
 Ovo je veza do sajta Gimnazije u Bačkoj Palanci.
+
+kreiranje tekst polja
+<input type="text" placeholder="this is placeholder text">
